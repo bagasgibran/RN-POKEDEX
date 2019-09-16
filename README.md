@@ -1,7 +1,7 @@
 # RN-POKEDEX
 POKEDEX using pokeapi.co
 
-![alt text](https://youtu.be/fEGZl_Ja7XI)
+* [youtube](https://youtu.be/fEGZl_Ja7XI) Pokedex Youtube Preview
 
 ## Running
 
