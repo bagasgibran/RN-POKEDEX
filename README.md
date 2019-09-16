@@ -1,7 +1,7 @@
 # RN-POKEDEX
 POKEDEX using pokeapi.co
 
-![alt text](http://res.cloudinary.com/randomstuffibuy/image/upload/c_scale,w_200/v1504442580/github/todo-mobile/todo-app-v1.0.gif)
+![alt text](https://youtu.be/fEGZl_Ja7XI)
 
 ## Running
 
