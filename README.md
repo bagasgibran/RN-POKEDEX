@@ -2,8 +2,7 @@
 POKEDEX using pokeapi.co
 
 * [youtube](https://youtu.be/fEGZl_Ja7XI) Pokedex Youtube Preview
-http://api.qrserver.com/v1/create-qr-code/?
-* [youtube](color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fexpo.io%2F%40bagasgibran%2FpokedexBagas&qzone=1&margin=0&size=400x400&ecc=L) Pokedex Expo Preview
+* ![Image of Qrcode](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fexpo.io%2F%40bagasgibran%2FpokedexBagas&qzone=1&margin=0&size=400x400&ecc=L)
 
 ## Running
 
