@@ -2,6 +2,8 @@
 POKEDEX using pokeapi.co
 
 * [youtube](https://youtu.be/fEGZl_Ja7XI) Pokedex Youtube Preview
+http://api.qrserver.com/v1/create-qr-code/?
+* [youtube](color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fexpo.io%2F%40bagasgibran%2FpokedexBagas&qzone=1&margin=0&size=400x400&ecc=L) Pokedex Expo Preview
 
 ## Running
 
@@ -15,6 +17,7 @@ POKEDEX using pokeapi.co
 #### Mobile Device
 * Download Expo app
 * Scan QR code from mobile or Open explore tab, Press search and Enter url shown in terminal.
+
 
 ## React and Expo versions
 
